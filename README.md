@@ -1,9 +1,7 @@
 ### Hola Soy Sergio Trujillo
 
+![](./img/personaje.svg){max-width="250px"}
 
-<div style="max-width: 300px;">
-![](./img/personaje.svg)
-</div>
 
 Tengo conocimiento en Linux y windows.
 
