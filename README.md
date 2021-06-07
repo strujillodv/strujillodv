@@ -1,6 +1,6 @@
 ### Hola Soy Sergio Trujillo
 
-<img src="./img/personaje.svg" alt="" style="max-width: 300px;width: 100%;">
+<img src="./img/personaje.svg" alt="" style="max-width: 300px !important;width: 100% !important;">
 
 Tengo conocimiento en Linux y windows.
 
