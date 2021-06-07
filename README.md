@@ -1,6 +1,13 @@
+<style>
+img{
+    max-width: 300px;
+    width: 100%;
+}
+</style>
+
 ### Hola Soy Sergio Trujillo
 
-<img src="./img/personaje.svg" alt="" style="max-width: 300px !important;width: 100% !important;">
+<img src="./img/personaje.svg" alt="Sergio Antonio Trujillo del Valle">
 
 Tengo conocimiento en Linux y windows.
 
