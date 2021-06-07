@@ -1,7 +1,7 @@
-<style>
+<style type="text/css">
 img{
-    max-width: 300px;
-    width: 100%;
+    max-width: 300px !important; 
+    width: 100% !important;
 }
 </style>
 
