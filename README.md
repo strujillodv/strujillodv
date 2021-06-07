@@ -6,6 +6,8 @@ Mmanejo de control de versiones con git, me gusta el Diseño y desarrollo web, m
 
 Soy una persona que esta en constante aprendizaje y busca formarse constantemente en diferentes tecnologías gracias a plataformas como Crehanna, Edteam y Platzy.
 
+![](./img/personaje.svg)
+
 <!--
 **strujillodv/strujillodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
