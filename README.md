@@ -4,7 +4,9 @@
 
 Tengo conocimiento en Linux y windows.
 
-Mmanejo de control de versiones con git, me gusta el diseño y desarrollo web, manejo html5, css, javascript, Firebase, frameworks de desarrollo Vue - Nuxt, manejo de los programas after effects, illustrator, krita, inkskape y figma.
+Manejo de git, me gusta el diseño y desarrollo web,
+
+Tengo conocimiento en html5, css, javascript, Firebase, frameworks de desarrollo Vue - Nuxt, manejo de los programas after effects, illustrator, krita, inkskape y figma.
 
 Soy una persona que esta en constante aprendizaje y busca formarse constantemente en diferentes tecnologías gracias a plataformas como Crehanna, Edteam y Platzy.
 
