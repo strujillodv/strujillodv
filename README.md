@@ -10,6 +10,7 @@ Tengo conocimiento en html5, css, javascript, Firebase, frameworks de desarrollo
 
 Soy una persona que esta en constante aprendizaje y busca formarse constantemente en diferentes tecnologías gracias a plataformas como Crehanna, Edteam y Platzy.
 
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
 
 <!--
 **strujillodv/strujillodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
